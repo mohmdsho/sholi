@@ -1,0 +1,107 @@
+.Contain
+{
+margin-left: 20%;
+margin-right: 20%
+}
+body{
+
+    align-content: center;
+}
+.Contain
+{
+height: 100%;
+margin-left: 35%;
+margin-right: 35%;
+width:30%;
+margin-top: 5%;
+}
+.butt{
+   margin-top: 2%;
+   width:100%;
+   background-color: blue;
+   height:6%;
+   color: white;
+}
+body{
+   align-content: center;
+}
+.imgHead{
+   align-content: center;
+   text-align: center;
+}
+input{
+width: 100%;
+margin-top: 2%;
+border-style: none;
+outline: none;
+ }
+hr{
+color:black;
+}
+.foot{
+   margin-top: -11%;
+   margin-right: 2%;
+   text-align: center;
+}
+.line{
+   width: 100%;
+   margin-bottom: 2%;
+   border: 1px dotted black;
+}
+.aa{
+   text-decoration: none;
+}
+.privacy
+{
+    text-align: center;
+}
+.line2{
+margin-bottom: 3%;
+    align-content: center;
+   width: 25%;
+   border: 1px dotted black;
+}
+}
+.foot1{
+    margin-right: 2%;
+    text-decoration: none;
+}
+.imag{
+height: 75%;
+width: 60%;
+align-content: center;
+}
+.mod{
+   width:20%;
+   height: 5%;
+   margin-right: 5%;
+   margin-top: 2%;
+}
+.mod1{
+    float: right;
+    width:18%;
+   height: 5%;
+    margin-top: 2%;
+}
+.mod2{
+   float: left;
+    width:18%;
+   height: 5%;
+    margin-top: 2%;
+}
+#p1{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: red;
+}
+#p2{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: red;
+}
+#p3{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: red;
+}
+
